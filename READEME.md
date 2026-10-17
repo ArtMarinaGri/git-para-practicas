@@ -10,7 +10,11 @@ Es una practica de Git.
 ## Cambios por el terminal.
 
 cd 'nobre de la carpeta' (posicionarnos a la carpeta)
+
 git status (para confirmar si existen los cambios)
+
 git add . (para confirmar cambios)
+
 git commit -m 'mensaje de actualizacion'
+
 git push (subimos al repositorio de github)
