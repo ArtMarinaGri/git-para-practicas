@@ -6,3 +6,5 @@ Es una practica de Git.
 - Cambiar el codigo
 - Confirmar los cambios (gir comit)
 - Enviar los cambios a GitHub (git pull)
+
+cambios
